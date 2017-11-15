@@ -13,6 +13,8 @@ This is a work in progress. WebExtensions are avilable for use in Chrome, Firefo
 
 The original dev seems unable to commit the time to further develop this add-on into the new WebExtension format. This fork is an effort to see what can be done to assist.
 
+WebExtensions documentation can be found at [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/WebExtensions).
+
 Using SAML Tracer
 -----------------
 
