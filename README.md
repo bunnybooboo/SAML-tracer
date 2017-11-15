@@ -6,6 +6,12 @@ SAML communication between websites easier. It is a request logger that
 in addition to showing normal requests, also highlights and decodes
 SAML messages that are transmitted.
 
+Porting to WebExtension
+-----------------------
+
+This is a work in progress. WebExtensions are avilable for use in Chrome, Firefox, Opera. Firefox [announced](https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/) their intention to switch to WebExtensions exclusive back in 2015.
+
+The original dev seems unable to commit the time to further develop this add-on into the new WebExtension format. This fork is an effort to see what can be done to assist.
 
 Using SAML Tracer
 -----------------
